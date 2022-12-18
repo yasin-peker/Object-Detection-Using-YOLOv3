@@ -8,3 +8,5 @@ In this project, 4 different YOLOv3 models with different accuracy in different 
 
 All of these models can find 80 different objects with a high accuracy rate. Table of objects that the model can detect:
 ![names-table](https://user-images.githubusercontent.com/68354896/208297962-e3c6c332-5485-41b2-a824-9f9faafd514c.png)
+
+Weights of the YOLOv3 models can be downloaded from https://pjreddie.com/darknet/yolo/
